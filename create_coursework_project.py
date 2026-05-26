@@ -44,7 +44,8 @@ def slug(s: str) -> str:
 
 
 def prompt(msg: str, default: str = "") -> str:
-    line = input(f"{msg}" + (f" [{default}]" : "") + ": ").strip()
+    suffix = f" [{default}]" if default else ""
+    line = input(f"{msg}{suffix}: ").strip()
     return line or default
 
 
