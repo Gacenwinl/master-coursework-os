@@ -21,6 +21,8 @@
 
 **已实现**：`tools/verify_bib_keys.py` — 检查 `\cite{}` 是否存在于 `refs.bib`（stdlib）。
 
+**Distinction（2.1，人工为主）**：五关卡 A–E 见 `Distinction_Target_SOP.md`；`15` red team 不自动改正文。
+
 ---
 
 ## 6.2 不应完全自动化

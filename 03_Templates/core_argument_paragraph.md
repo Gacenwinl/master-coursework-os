@@ -30,6 +30,16 @@
 
 ---
 
+## Strongest objection (Distinction — 亲手写):
+
+[反方一句]
+
+## My response strategy (Distinction — 证据类型，非全文):
+
+[primary / 案例 / 文献争论 / 限界 — 见 `thesis_objection_worksheet.md`]
+
+---
+
 ## Oral explain check (optional, 30 sec, no AI)
 
 - [ ] 我能不看稿说出论点  

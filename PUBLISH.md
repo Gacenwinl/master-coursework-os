@@ -8,7 +8,8 @@
 - `01_Intake_Form/`、`tools/`、`create_coursework_project.py`
 - `.cursor/rules/`、`AGENTS.md`、`README.md`、`00_README_如何使用.md`
 - `Next_Assignment_Quickstart.md`、`Automation_Opportunities.md`
-- `LICENSE`
+- `02_SOP/Distinction_Target_SOP.md`、`03_Templates/distinction_checklist.md` 等 2.1 模板
+- `CHANGELOG.md`、`LICENSE`
 
 ## 不包含（`.gitignore`，仅留本机）
 

@@ -1,4 +1,4 @@
-# Master Coursework OS (SOP 2.0)
+# Master Coursework OS (SOP 2.1)
 
 UK master coursework **workflow template** — SOP, prompts, intake forms, and project scaffolding.  
 **Not** a ghostwriting kit: you own the argument, sources, and submission.
@@ -21,6 +21,7 @@ Then open the **new assignment folder** in Cursor (or open this repo and work in
 | --- | --- |
 | 10 min guide | [Next_Assignment_Quickstart.md](Next_Assignment_Quickstart.md) |
 | Main SOP | [02_SOP/Master_Coursework_SOP_2.0.md](02_SOP/Master_Coursework_SOP_2.0.md) |
+| Distinction (70+) | [02_SOP/Distinction_Target_SOP.md](02_SOP/Distinction_Target_SOP.md) |
 | Prompt index | [04_Prompt_Library/Prompt_Library_2.0.md](04_Prompt_Library/Prompt_Library_2.0.md) |
 | Chinese overview | [00_README_如何使用.md](00_README_如何使用.md) |
 
@@ -29,7 +30,7 @@ Then open the **new assignment folder** in Cursor (or open this repo and work in
 ## What you get
 
 - **Module 0** AI policy gate (Modes A / B / C)
-- **15-step SOP** + UK compliance notes
+- **15-step SOP** + UK compliance + **Distinction five-gate overlay** (2.1)
 - **ChatGPT prompt library** (intake → rubric → review → declaration)
 - **Cursor bootstrap** + `.cursor/rules` for academic integrity
 - **`create_coursework_project.py`** — scaffolds `01_Brief` … `06_Final`

@@ -1,8 +1,10 @@
-# Master Coursework OS — 使用说明（SOP 2.0）
+# Master Coursework OS — 使用说明（SOP 2.1）
 
 > **Coursework Operating System**：学习与写作管理，非 AI 代写流水线。  
 > **主流程**：`02_SOP/Master_Coursework_SOP_2.0.md`  
+> **冲 Distinction**：`02_SOP/Distinction_Target_SOP.md` + `03_Templates/distinction_checklist.md`  
 > **10 分钟启动**：`Next_Assignment_Quickstart.md`  
+> **更新**：`CHANGELOG.md`  
 
 ---
 
@@ -30,6 +32,7 @@ Master_Coursework_OS/
 ├── 01_Intake_Form/                （规格亦称 01_Intake）
 ├── 02_SOP/
 │   ├── Master_Coursework_SOP_2.0.md   ★ 主 SOP
+│   ├── Distinction_Target_SOP.md      ★ 70+ 五关卡
 │   ├── Module0_AI_Policy_Gate.md
 │   ├── UK_Compliance_and_Modes.md
 │   ├── AI_Policy_Check_SOP.md
@@ -42,7 +45,7 @@ Master_Coursework_OS/
 ├── 03_Templates/
 ├── 04_Prompt_Library/
 │   ├── Prompt_Library_2.0.md      ★ Prompt 主索引
-│   └── 01–14, 00, 03b, 04b, 05b, 09, 12–14 …
+│   └── 01–15, 00, 03b, 04b, 05b, 15 …
 └── 05_Project_Template/
 ```
 

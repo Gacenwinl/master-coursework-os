@@ -12,9 +12,17 @@ python create_coursework_project.py
 
 ## 2. 填写
 
-- `01_Brief/Assignment_Intake_Form.md`  
-- `01_Brief/Module0_AI_Policy_Gate.md` → 选 **Mode B**（除非 brief 另有规定）  
+- `01_Brief/Assignment_Intake_Form.md` → Target grade 如实勾选  
+- `01_Brief/Module0_AI_Policy_Gate.md` → **Merit：Mode B**；**Distinction：Mode B + High 档**（强制 AI 记录课用 Mode C 但正文仍建议自写）  
 - 把 brief PDF 放入 `01_Brief/`
+
+### 若 Target = Distinction（70+）
+
+1. 读 `02_SOP/Distinction_Target_SOP.md`（五关卡 A–E）  
+2. 填 `02_Notes/thesis_objection_worksheet.md`（动笔写正文前）  
+3. 时间预算 **35–50h**（`Effort_Levels.md`）  
+4. 初稿后跑 `04_Prompt_Library/15_distinction_red_team_prompt.md`  
+5. 交前 `06_Final/distinction_checklist.md` **≥8/10**
 
 ## 3. 先问自己 5 问（不用 AI）
 
@@ -60,4 +68,5 @@ python create_coursework_project.py
 9. PDF 能打开  
 10. 提交成功截图（可选）
 
-**主 SOP**：`02_SOP/Master_Coursework_SOP_2.0.md`
+**主 SOP**：`02_SOP/Master_Coursework_SOP_2.0.md`  
+**Distinction**：`02_SOP/Distinction_Target_SOP.md`

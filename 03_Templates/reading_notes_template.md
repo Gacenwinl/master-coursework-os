@@ -25,4 +25,11 @@
 
 Which thesis sentence does this support?
 
-## Critical note (agree/disagree/limit)
+## Critical note (Distinction: 必填)
+
+| 对 thesis 的态度 | ☐ Agree ☐ Disagree ☐ Limit |
+| --- | --- |
+| 针对论点哪一句 | |
+| 若 Disagree：反方要点 | |
+
+## Critical note (Merit: agree/disagree/limit 简述)

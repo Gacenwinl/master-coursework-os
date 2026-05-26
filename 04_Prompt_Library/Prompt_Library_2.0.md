@@ -7,7 +7,9 @@
 
 ## 使用顺序（Mode B 默认）
 
-`00` → `02` policy → `01` intake → `02` rubric → `09` plan → `03` literature → `03b` concept → `04b` argument → `04` outline → [你写作] → `05` review → `05b` counter → `06` ref risk → `13` format → `07` final → `12` declaration → `14` post
+**Merit（默认）**：`00` → `02` → `01` → `02` rubric → `09` plan → `03` → `03b` → `04b` → `04` outline → [你写作] → `05` → `05b` → `06` → `13` → `07` → `12` → `14`
+
+**Distinction 叠加**：在 `04b` 后填 **关卡 A** worksheet → [你写作] → **`15` red team** → `05` → 改稿 → **关卡 D/E** → 其余同上
 
 ---
 
@@ -104,6 +106,17 @@
 | 项 | 内容 |
 | --- | --- |
 | **文件** | `05b_counterargument_prompt.md` |
+
+---
+
+## 10b. Distinction red team
+
+| 项 | 内容 |
+| --- | --- |
+| **文件** | `15_distinction_red_team_prompt.md` |
+| **场景** | Target = Distinction；初稿/大纲后 |
+| **输出** | 6 条 Merit 封顶弱点 + 须在正文回应 ≥3 |
+| **风险** | 与 `05` 混为一轮 → 结构问题修不好 |
 
 ---
 

@@ -30,7 +30,12 @@ COPY_FILES = [
     (TEMPLATES / "ai_log.md", "05_AI_Log/ai_log.md"),
     (TEMPLATES / "ai_log.csv", "05_AI_Log/ai_log.csv"),
     (TEMPLATES / "ai_declaration_template.md", "06_Final/ai_declaration.md"),
+    (TEMPLATES / "distinction_checklist.md", "06_Final/distinction_checklist.md"),
+    (TEMPLATES / "thesis_objection_worksheet.md", "02_Notes/thesis_objection_worksheet.md"),
+    (TEMPLATES / "oral_defence_prep.md", "02_Notes/oral_defence_prep.md"),
 ]
+
+DISTINCTION_SOP = OS_ROOT / "02_SOP" / "Distinction_Target_SOP.md"
 
 
 def slug(s: str) -> str:
@@ -111,6 +116,12 @@ def main() -> None:
     print("  3. Fill 01_Brief/Assignment_Intake_Form.md")
     print("  4. Cursor: 04_Prompt_Library/08_cursor_project_bootstrap_prompt.md")
     print("  5. ChatGPT: 00_chatgpt_session_opener.md + Intake")
+    if "distinction" in target.lower():
+        print("\n  ** Target = Distinction **")
+        print(f"  → Read: {DISTINCTION_SOP}")
+        print("  → Effort: High (35–50h) · Mode B for body text")
+        print("  → Fill: 02_Notes/thesis_objection_worksheet.md (before heavy drafting)")
+        print("  → Prompt 15 after draft: distinction red team")
     print(f"\nSee: {OS_ROOT / 'Next_Assignment_Quickstart.md'}")
     print(f"Main SOP: {OS_ROOT / '02_SOP' / 'Master_Coursework_SOP_2.0.md'}")
     print(f"Bib check: py -3 {OS_ROOT / 'tools' / 'verify_bib_keys.py'} <draft> 03_Literature/refs.bib")

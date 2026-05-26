@@ -58,7 +58,8 @@
 | 字段 | 填写 |
 | --- | --- |
 | Target grade | ☐ Pass ☐ Merit ☐ Distinction ☐ 无等级要求 |
-| Desired effort level | ☐ 及格 ☐ 中上 ☐ 冲高分 |
+| If Distinction | 必读 `02_SOP/Distinction_Target_SOP.md`；档位选 **High**；`create_coursework_project.py` 会复制五关卡模板 |
+| Desired effort level | ☐ Low ☐ Medium (Merit) ☐ High (Distinction) |
 | Available time (hours) | |
 | Risk tolerance | ☐ 保守合规优先 ☐ 平衡 ☐ 愿承担更高格式风险 |
 

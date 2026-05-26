@@ -1,7 +1,8 @@
 # Master Coursework SOP 2.0（英国 Master 主流程）
 
 > **唯一主 SOP**。v1：`Academic_Task_SOP.md`（保留作细节参考）。  
-> **前置必读**：`Module0_AI_Policy_Gate.md`、`UK_Compliance_and_Modes.md`、`Effort_Levels.md`。
+> **前置必读**：`Module0_AI_Policy_Gate.md`、`UK_Compliance_and_Modes.md`、`Effort_Levels.md`。  
+> **冲 Distinction（70+）**：叠加 `Distinction_Target_SOP.md`（OS 2.1）。
 
 ## 3.1 总原则
 
@@ -86,6 +87,23 @@ Galison 文件留在 `Galison_Assignment/` 作范例，**不要**整夹复制为
 
 ## 3.7 Prompt 与自动化
 
-- Prompt：`04_Prompt_Library/Prompt_Library_2.0.md`（主索引）+ `01`–`08` 单文件  
+- Prompt：`04_Prompt_Library/Prompt_Library_2.0.md`（主索引）+ `01`–`15` 单文件  
 - 自动化：`Automation_Opportunities.md`  
 - 脚本：`create_coursework_project.py`
+
+---
+
+## 3.8 Distinction 叠加（Target grade = Distinction）
+
+**不增加 SOP 步骤编号**；在步骤 7–12 之间插入五关卡（详见 `Distinction_Target_SOP.md`）：
+
+| 关卡 | 插入位置 | 产出 |
+| --- | --- | --- |
+| A 可反驳论点 | 步骤 7 前后 | `thesis_objection_worksheet.md` |
+| B 文献配额 | 步骤 6–10 | reading notes + verification |
+| C Red team | 步骤 9（第一轮） | `15_distinction_red_team` + 正文 3 处回应 |
+| D 去模板段 | 步骤 8–9 之间 | 修订 draft |
+| E 口头预演 | 步骤 12 前 | `oral_defence_prep.md` |
+
+终检：`03_Templates/distinction_checklist.md`（≥8/10）+ `final_submission_checklist.md`。  
+档位：**High**（`Effort_Levels.md`）。模式：**Mode B** 优先。

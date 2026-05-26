@@ -18,6 +18,11 @@
 - [ ] Opens without errors
 - [ ] Submitted before deadline (timezone checked)
 
+## Distinction (only if Target = Distinction)
+- [ ] `02_SOP/Distinction_Target_SOP.md` 五关卡已完成
+- [ ] `distinction_checklist.md` ≥8/10
+- [ ] `oral_defence_prep.md` 四项通过
+
 ## Post-submit
 - [ ] Backup saved
 - [ ] VLE confirmation captured (optional)
