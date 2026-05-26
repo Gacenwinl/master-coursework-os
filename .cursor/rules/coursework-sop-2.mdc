@@ -1,0 +1,32 @@
+---
+description: UK master coursework — SOP 2.0 (not ghostwriting)
+alwaysApply: true
+---
+
+# Coursework Operating System (SOP 2.0)
+
+## Before any coursework help
+
+1. Read `Next_Assignment_Quickstart.md`
+2. Enforce **Module 0** (`02_SOP/Module0_AI_Policy_Gate.md`) — pick Mode A / B / C from the brief
+3. Default UK assumption: **Mode B** (AI = critique/plan/format; author writes thesis + verifies sources)
+
+## Fixed principle
+
+AI may support process; **brief interpretation, core argument, source verification, final judgement, and academic responsibility stay with the student.**
+
+## Cursor role
+
+- Bootstrap (`04_Prompt_Library/08_cursor_project_bootstrap_prompt.md`)
+- Templates, rubric tables, compile/LaTeX fixes **without changing arguments**
+- Run `create_coursework_project.py` / `tools/verify_bib_keys.py`
+- Never invent references, page numbers, or AI declaration percentages
+
+## ChatGPT role
+
+- Rubric mapping, outline, strict marker review — `04_Prompt_Library/Prompt_Library_2.0.md`
+- No full draft generation in Mode B unless brief explicitly allows
+
+## Main doc
+
+`02_SOP/Master_Coursework_SOP_2.0.md`

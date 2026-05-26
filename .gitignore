@@ -1,0 +1,42 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LaTeX (if you compile inside a generated project)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Submission artefacts (keep in private assignment repos, not template)
+**/07_final/*.pdf
+**/06_Final/*.pdf
+
+# Local secrets / briefs
+.env
+*.pem
+**/01_Brief/*.pdf
+**/01_Brief/*brief*.pdf
+
+# Synology
+@eaDir/
+.SynologyWorkingDirectory/
+
+# Generated assignment folders (optional: track your own in a separate repo)
+# 20*_*/

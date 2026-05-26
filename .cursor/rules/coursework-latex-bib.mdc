@@ -1,0 +1,12 @@
+---
+description: LaTeX/BibTeX coursework — format only, verify cites
+globs: "**/*.tex,**/refs.bib,**/paper_draft.md,**/04_Draft/**"
+alwaysApply: false
+---
+
+# LaTeX / references (format-only)
+
+- Fix compile errors, layout, `\cite{}` syntax — **do not** change thesis or add uncited claims
+- Do not guess primary-source page numbers
+- After bib edits: `python tools/verify_bib_keys.py <draft.tex|md> 03_Literature/refs.bib`
+- If a compile script syncs md→tex, warn before overwriting manual body edits
