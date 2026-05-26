@@ -3,7 +3,6 @@
 > **Coursework Operating System**：学习与写作管理，非 AI 代写流水线。  
 > **主流程**：`02_SOP/Master_Coursework_SOP_2.0.md`  
 > **10 分钟启动**：`Next_Assignment_Quickstart.md`  
-> **升级说明**：`SOP_2.0_Upgrade_Report.md`
 
 ---
 
@@ -22,9 +21,6 @@
 ```text
 Master_Coursework_OS/
 ├── 00_README_如何使用.md          ← 本文件
-├── Project_Evidence_Map.md        ← Galison 执行痕迹地图
-├── SOP_Diagnosis.md
-├── SOP_2.0_Upgrade_Report.md
 ├── Next_Assignment_Quickstart.md
 ├── Automation_Opportunities.md
 ├── create_coursework_project.py
@@ -60,7 +56,7 @@ Master_Coursework_OS/
 
 ## 与 Galison 作业
 
-`Galison_Assignment/` = **Mode C** 完整实例（已交付，勿改终稿）。  
+Galison 为 **Mode C** 完整实例（本地归档，不在本 GitHub 模板仓）。  
 本 OS = 未来英硕 **Mode B 默认** + 可选 A/C。
 
 ---

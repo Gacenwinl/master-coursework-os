@@ -40,3 +40,12 @@ venv/
 
 # Generated assignment folders (optional: track your own in a separate repo)
 # 20*_*/
+
+# --- Local only: keep on disk / Synology, do NOT push to GitHub ---
+GITHUB_SETUP.md
+GITHUB_PUSH_网络排错.md
+push_to_github.ps1
+Project_Evidence_Map.md
+SOP_Diagnosis.md
+SOP_2.0_Upgrade_Report.md
+_local/

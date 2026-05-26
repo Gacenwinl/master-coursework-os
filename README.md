@@ -39,11 +39,10 @@ Then open the **new assignment folder** in Cursor (or open this repo and work in
 
 ## GitHub: use as template
 
-1. Push this folder as its own repo (see [GITHUB_SETUP.md](GITHUB_SETUP.md)).
-2. On GitHub: **Settings → General → Template repository** ✓
-3. Next assignment: **Use this template** → new repo, or `git clone` again.
+On GitHub: **Settings → General → Template repository** ✓  
+Next assignment: **Use this template** → new repo, or `git clone` again.
 
-Keep **graded essays / brief PDFs / personal AI logs** in the **assignment repo** you generate — not necessarily in this public template repo.
+Keep **graded essays / brief PDFs / personal AI logs** in the **assignment repo** you generate — not in this template repo.
 
 ---
 
